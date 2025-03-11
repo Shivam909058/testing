@@ -68,7 +68,7 @@ feature_model = None
 whisper_model = None
 
 
-CLAUDE_API_KEY = "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"
+CLAUDE_API_KEY = ""
 CLAUDE_MODEL = "claude-3-5-sonnet-20240620"
 
 
